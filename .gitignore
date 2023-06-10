@@ -1,3 +1,4 @@
 .idea
 java_basico.iml
 out
+*.class
